@@ -68,7 +68,7 @@
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.StartButton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Word Count";
             this.ResumeLayout(false);
 
         }
